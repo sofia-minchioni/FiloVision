@@ -5,7 +5,7 @@ from collections import Counter
 stopwords = ['il', 'la', 'lo', 'i', 'gli','è','si', 'le', 'un', 'una', 'uno','di', 'a', 'da', 'in', 'con', 'su', 'per', 'tra', 'fra','e', 'o', 'ma', 'che', 'non', 'più', 'come', 'anche', 'se']
 
 #Lettura del testo dal file
-with open("meraviglia.txt", "r", encoding="utf-8") as file:
+with open("meraviglia.docx", "r", encoding="utf-8") as file:
     testo = file.read()
 
 #Pulizia del testo: minuscole + rimozione punteggiatura
@@ -32,3 +32,4 @@ concetti = {'filosofia': 'conoscenza','meraviglia': 'origine','sapere': 'epistem
 print("\nAssociazioni concettuali:")
 for parola, concetto in concetti.items():
     print(f"- {parola} → {concetto}")
+
