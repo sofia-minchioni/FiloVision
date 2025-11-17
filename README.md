@@ -37,5 +37,5 @@ parola e concetto vengono inseriti dentro il testo.] (#tecniche)
 Per verificare se il codice funziona abbiamo preso il codice a pezzi, e mano a mano ne abbiamo
 aggiunto una parte. Durante i test abbiamo controllato che il programma leggesse correttamente il 
 file di testo, eliminasse le parole inutili, contasse le parole più frequenti, mostrasse le
-associazioni concettuali. In conclusione il file funziona correttamente e ha mostrato i risultati adatti.] (#srategie)
+associazioni concettuali. In conclusione il file funziona correttamente e ha mostrato i risultati adatti.] (#strategie)
  
