@@ -29,8 +29,8 @@ frequenza in top_5:** per scorrere le 5 parole più frequenti; **print(f"-{parol
 vengono inseriti direttamente dentro il testo; **concetti={"filosofia": "conoscenza",
 "meraviglia": "origine"; "sapere": "epistemologia", "desiderio": "motivazione", "conoscenza": "
 fine in se"}** per creare un dizionario che collega le parole ai concetti;
-**print("\nAssociazioni concettuali:")** per creare una nuova riga prima del testo; for parola,
-**concetto in concetti.items():** per scorrere tutte le coppie del dizionario concetti;
+**print("\nAssociazioni concettuali:")** per creare una nuova riga prima del testo; **for parola,
+concetto in concetti.items():** per scorrere tutte le coppie del dizionario concetti;
 **print (f"-{parola}->{concetto}")** per creare una stringa, nella quale i valori delle variabili 
 parola e concetto vengono inseriti dentro il testo.] (#tecniche)
 -[## Strategie dei test
