@@ -16,7 +16,7 @@ Il programma ha il compito di leggere un testo; creare un dizionario delle frequ
 Il programma applica **import string** per accedere alla punteggiatura da eliminare; 
 **from collections import Counter** per contare quante volte un elemento compare nella lista parole;
 **stopwords=["il", "la", "lo", "i", "gli", "le", "un", "uno", "di", "a", "da", "in", "con","su", "per", "tra", "fra", "e", "o", "ma", "che", "non", "più", "come", "anche", "se"]** per creare la lista delle parole inutili; 
-**with open ("testo_meraviglia.txt", "r", encoding="utf-8")as file:** per leggere e codificare i caratteri speciali; 
+**with open ("testo meraviglia.txt", "r", encoding="utf-8")as file:** per leggere e codificare i caratteri speciali; 
 **testo=file.read()** per leggere il file e metterlo nella variabile testo; 
 **testo_pulito=testo. lower()** per rendere tutte le maiuscole in minuscole; 
 **for carattere in string-punctuation:** e **testo_pulito=testo.replace(carattere,")** per rimuovere ogni segno di punteggiatura; 
