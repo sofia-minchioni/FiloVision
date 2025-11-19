@@ -42,10 +42,10 @@ La Meraviglia è l'origine della filosofia e la, conoscenza è il fine in sé._
 
 il codice ha funzionato correttamente:
 
--le parole con punteggiatura sono state riconosciute e pulite;
--﻿﻿gli articoli e le stopword non sono stati conteggiati;
-﻿﻿-parole scritte con maiuscole e minuscole sono state unificate;
--﻿﻿al termine sono state mostrate correttamente le associazioni concettuali e il calcolo delle parole più frequenti
+- le parole con punteggiatura sono state riconosciute e pulite;
+-﻿﻿ gli articoli e le stopword non sono stati conteggiati;
+﻿﻿- parole scritte con maiuscole e minuscole sono state unificate;
+-﻿﻿ al termine sono state mostrate correttamente le associazioni concettuali e il calcolo delle parole più frequenti
 
 
 
