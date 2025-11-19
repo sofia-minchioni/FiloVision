@@ -47,6 +47,6 @@ il codice ha funzionato correttamente:
 ﻿﻿-parole scritte con maiuscole e minuscole sono state unificate;
 -﻿﻿al termine sono state mostrate correttamente le associazioni concettuali e il calcolo delle parole più frequenti
 [prima immagine](#Image.jpg)
-[seconda immagine]
+[seconda immagine](#Image(1).jpg)
 
 
