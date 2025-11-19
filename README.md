@@ -46,7 +46,6 @@ il codice ha funzionato correttamente:
 -﻿﻿gli articoli e le stopword non sono stati conteggiati;
 ﻿﻿-parole scritte con maiuscole e minuscole sono state unificate;
 -﻿﻿al termine sono state mostrate correttamente le associazioni concettuali e il calcolo delle parole più frequenti
-[prima immagine](#Image.jpg)
-[seconda immagine](#Image(1).jpg)
+
 
 
